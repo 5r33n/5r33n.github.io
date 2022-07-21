@@ -5,6 +5,10 @@ obj = {
             "first": "Milad",
             "last": "Green",
             },
+        "contact": {
+            "email": "5r33ns@gmail.com",
+            "twitter": "miladgr33n",
+            },
         "profession": {
             "name": "programmer",
             "present": "web3.0 DeFi",
