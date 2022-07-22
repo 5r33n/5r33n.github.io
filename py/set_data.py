@@ -6,7 +6,7 @@ obj = {
             "last": "Green",
             },
         "contact": {
-            "email": "5r33ns@gmail.com",
+            "email": "5r33ns <-at--sign->  gmail . com",
             "twitter": "miladgr33n",
             },
         "profession": {
